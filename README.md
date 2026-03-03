@@ -29,7 +29,7 @@ This application recommends 5 similar movies based on the selected movie and dis
   TMDB API fetches poster, rating, and release year.
   Results are displayed in a responsive layout.
 
-#Tech Stack
+# Tech Stack
   Python
   Pandas
   Scikit-learn
