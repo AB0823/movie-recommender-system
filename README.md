@@ -8,6 +8,9 @@ This application recommends 5 similar movies based on the selected movie and dis
 🔎 Searchable Dropdown Interface
 ☀️ Clean Light-Themed UI
 
+# 🚀 Live Demo
+https://movies-recommend-58b10c824446.herokuapp.com/
+
 # Features
   Content-based recommendation using movie metadata
   NLP-based text preprocessing (genres, cast, crew, keywords, overview)
